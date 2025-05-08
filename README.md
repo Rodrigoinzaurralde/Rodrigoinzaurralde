@@ -1,4 +1,10 @@
-# ¡Hola! Soy Rodrigo Inzaurralde
+<table>
+  <tr>
+    <td><h1>👨‍💻 Rodrigo Inzaurralde </h1></td>
+    <td><img src="./hacker_github_comic.gif" alt="Hacker GIF" width="80"/></td>
+  </tr>
+</table>
+
 
 Soy un apasionado por la ciberseguridad, la programación y el aprendizaje constante.
 
