@@ -1,15 +1,4 @@
-<table>
-  <tr>
-    <td>
-      <h1>👨‍💻 Rodrigo Inzaurralde</h1>
-    </td>
-  </tr>
-</table>
-<div>
-![Image](https://github.com/user-attachments/assets/90d326f5-d109-4e90-965c-7380a1942a5c)
-</div>
-
-
+# ¡Hola! 👋 Soy Rodrigo Inzaurralde
 
 Soy un apasionado por la ciberseguridad, la programación y el aprendizaje constante.
 
