@@ -15,11 +15,6 @@ Soy un apasionado por la ciberseguridad, la programación y el aprendizaje const
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="javascript" />
 </div>
 
-## 📫 Contacto
-
-- [LinkedIn](https://www.linkedin.com/in/rodrigo-inzaurralde-084846150/)
-- :contentReference[oaicite:60]{index=60}:contentReference[oaicite:62]{index=62}
-
 
 ## 📈 GitHub Stats
 ![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rodrigoinzaurralde&show_icons=true&theme=tokyonight)
