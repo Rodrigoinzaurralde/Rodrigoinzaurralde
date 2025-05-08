@@ -9,7 +9,7 @@
   </tr>
 </table>
 
-
+![Image](https://github.com/user-attachments/assets/90d326f5-d109-4e90-965c-7380a1942a5c)
 
 Soy un apasionado por la ciberseguridad, la programación y el aprendizaje constante.
 
