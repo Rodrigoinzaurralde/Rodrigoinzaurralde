@@ -4,12 +4,12 @@
       <h1>👨‍💻 Rodrigo Inzaurralde</h1>
     </td>
     <td>
-      <img src="./hacker_github_comic.gif" alt="Hacker GIF" width="250"/>
+    ![Image](https://github.com/user-attachments/assets/90d326f5-d109-4e90-965c-7380a1942a5c)
     </td>
   </tr>
 </table>
 
-![Image](https://github.com/user-attachments/assets/90d326f5-d109-4e90-965c-7380a1942a5c)
+
 
 Soy un apasionado por la ciberseguridad, la programación y el aprendizaje constante.
 
