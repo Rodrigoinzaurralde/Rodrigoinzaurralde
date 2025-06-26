@@ -1,23 +1,30 @@
-# ¡Hola! 👋 Soy Rodrigo Inzaurralde
+# 👋 Hola, soy Rodrigo Inzaurralde  
 
-Soy un apasionado por la ciberseguridad, la programación y el aprendizaje constante.
-
-##   Sobre mí
--  Enfocado en Ciberseguridad y Pentesting
--  Actualmente trabajando en proyectos de automatización en Bash y Python
--  Siempre explorando nuevas tecnologías y buenas prácticas
-
-##  Tecnologías y Lenguajes
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" alt="bash" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="javascript" />
-</div>
-
-
-## 📈 GitHub Stats
-![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rodrigoinzaurralde&show_icons=true&theme=tokyonight)
+### 🔥 **Estudiante de Ciberseguridad & Desarrollo Frontend**  
+📍 **Uruguay** | 🎯 **Meta**: Ethical Hacker / Pentester  
 
 ---
 
+## 🛠️ **Tecnologías y Habilidades**  
+
+### 💻 **Lenguajes y Herramientas**  
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)  
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)  
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/es/docs/Web/JavaScript)  
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.linux.org/)  
+
+### 📚 **En Formación Activa**  
+- **Hacking Ético**:  
+  - Academia Hack4u (S4vitar) | TryHackMe | Linux/Python para seguridad.  
+- **Desarrollo Frontend**:  
+  - Jóvenes a Programar (Ceibal) | HTML/CSS/JS.  
+
+---
+
+## 📫 **Contacto**  
+- [LinkedIn]([https://www.linkedin.com/in/tuperfil](https://www.linkedin.com/in/rodrigo-inzaurralde-084846150/))  
+- [TryHackMe]([https://tryhackme.com/p/tuperfil](https://tryhackme.com/p/rodrigoinzaurralde97))  
+
+---
+
+> *"`$ whoami` → [red-team-learner]`*  
