@@ -22,8 +22,8 @@
 ---
 
 ## 📫 **Contacto**  
-- [LinkedIn]([https://www.linkedin.com/in/tuperfil](https://www.linkedin.com/in/rodrigo-inzaurralde-084846150/))  
-- [TryHackMe]([https://tryhackme.com/p/tuperfil](https://tryhackme.com/p/rodrigoinzaurralde97))  
+- [LinkedIn](https://www.linkedin.com/in/tuperfil](https://www.linkedin.com/in/rodrigo-inzaurralde-084846150/))  
+- [TryHackMe](https://tryhackme.com/p/tuperfil](https://tryhackme.com/p/rodrigoinzaurralde97))  
 
 ---
 
