@@ -15,15 +15,15 @@
 
 ### 📚 **En Formación Activa**  
 - **Hacking Ético**:  
-  - Academia Hack4u (S4vitar) | TryHackMe | Linux/Python para seguridad.  
+  - Academia Hack4u (S4vitar) | [TryHackMe](https://tryhackme.com/p/rodrigoinzaurralde97) | Linux/Python para seguridad.  
 - **Desarrollo Frontend**:  
   - Jóvenes a Programar (Ceibal) | HTML/CSS/JS.  
 
 ---
 
 ## 📫 **Contacto**  
-- [LinkedIn]((https://www.linkedin.com/in/rodrigo-inzaurralde-084846150/))  
-- [TryHackMe]((https://tryhackme.com/p/rodrigoinzaurralde97))  
+- [LinkedIn](https://www.linkedin.com/in/rodrigo-inzaurralde-084846150/)  
+- [Perfil TryHackMe](https://tryhackme.com/p/rodrigoinzaurralde97)  
 
 ---
 
