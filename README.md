@@ -15,7 +15,7 @@
 
 ### 📚 **En Formación Activa**  
 - **Hacking Ético**:  
-  - Academia Hack4u (S4vitar) | [TryHackMe](https://tryhackme.com/p/rodrigoinzaurralde97) | Linux/Python para seguridad.  
+  - Academia Hack4u (S4vitar) | [TryHackMe](https://tryhackme.com/p/rodrigoinzaurralde97) | Linux/Python.  
 - **Desarrollo Frontend**:  
   - Jóvenes a Programar (Ceibal) | HTML/CSS/JS.  
 
