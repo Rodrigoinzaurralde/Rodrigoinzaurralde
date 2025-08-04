@@ -1,6 +1,6 @@
 # 👋 Hola, soy Rodrigo Inzaurralde  
 
-### 🔥 **Estudiante de Ciberseguridad & Desarrollo Frontend**  
+### 🔥 **Estudiante de Ciberseguridad & Desarrollo Web**  
 📍 **Uruguay** | 🎯 **Meta**: Ethical Hacker / Pentester  
 
 ---
